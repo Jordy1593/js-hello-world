@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log ('Learning code is so fun'); console.log ('I cant wait to keep learning code all I have to do is keep "striving".')
+console.log('Learning code is so fun'); console.log('I cant wait to keep learning code all I have to do is keep "striving".'); console.log("Hello, World!")
 
 
 /*  
